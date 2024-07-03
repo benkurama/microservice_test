@@ -1,1 +1,1 @@
-body **Blog_title**
+content is:  11 : **Blog_title** : **Blog_description**
